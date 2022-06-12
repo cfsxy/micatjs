@@ -61,7 +61,7 @@
 {"key": "csp_xpath_huya", "name": "虎牙直播(XP)", "type": 3,"api": "csp_XPathMacFilter", "searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "https://cfsxy.github.io/micatxp/huya.json"},
 {"key": "csp_xpath_cokemv","name": "Cokemv(XP)", "type": 3, "api": "csp_XPathMacFilter", "searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "https://cfsxy.github.io/micatxp/cokemv.json"},
 { "key": "csp_xpath_libv","name": "libvio(XP)", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://cfsxy.github.io/micatxp/libv.json"},
-{"key": "csp_xpath_网络搜集库112","name": "工人","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cfsxy.github.io/micatxp/gongren.json"},
+{"key": "csp_xpath_网络搜集库112","name": "工人","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cfsxy.github.io/micatxp/519-gongreng.json"},
 {"key": "csp_XPathMacFilter_网络搜集源02","name": "极品","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/99/x/raw/branch/main/jp"},
 {"key": "csp_xpath_kuqi","name": "酷奇MV(XP)", "type": 3, "api": "csp_XPathMacFilter","searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/kuqimv.json"},
 {"key":"csp_xpath_qcys","name":"奇粹影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/ikuwoo.json"},
