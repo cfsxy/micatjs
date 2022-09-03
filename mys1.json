@@ -68,7 +68,7 @@
 //{"key":"csp_Alist5","name":"Alist_七米蓝(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://al.chirmyram.com","jar":"cfsxy.github.io/mycatjr/alist-220829.jar"},
 //{"key":"csp_Alist6","name":"Alist_神族九帝(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.shenzjd.com","jar":"https://cfsxy.github.io/mycatjr/alist-220829.jar"},
 {"key":"csp_Alist1","name":"🅿️Alist合集(SP1)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"一只鱼(SP)$https://alist.youte.ml#嗨翻(SP)$https://pan.hikerfans.com#晴园(SP)$https://alist.52qy.repl.co#Adult.Drive(SP)$https://drive.9t.ee#七米蓝(SP)$https://al.chirmyram.com#神族九帝(SP)$https://alist.shenzjd.com","jar":"https://cfsxy.github.io/mycatjr/alist-sp220829.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
-{"key":"csp_Alist8","name":"🅿️Alist合集(SP2)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/cfsxy/Box/raw/branch/main/alist.json","jar":"https://cfsxy.github.io/mycatjr/alist-js220829.jar"},
+{"key":"csp_Alist8","name":"🅿️Alist合集(SP2)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cfsxy.github.io/json/alist.json","jar":"https://cfsxy.github.io/mycatjr/alist-js220829.jar"},
 
 
 
