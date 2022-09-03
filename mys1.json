@@ -447,7 +447,7 @@
 # 需要在配置文件中，加入key为push_agent的站点，数据返回格式和普通爬虫一致
 # 支持推送播放网盘链接
 # https://github.com/catvod/CatVodTVSpider
-{"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
+//{"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6"}
 ],
 
